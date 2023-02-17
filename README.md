@@ -1,2 +1,2 @@
 # GML_Project
-Um projeto de um jogo de plataforma feito na linguagem GML.
+A base de um script do personagem principal de um jogo de plataforma feito na linguagem GML.
